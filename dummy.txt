@@ -1,8 +1,6 @@
 Hello World !!!
 take input from user and add values 
 2 + 3 = 5
-add users manage data
-close the connection
+
 
 change1
-change2
